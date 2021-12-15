@@ -41,3 +41,37 @@
 ![image](https://user-images.githubusercontent.com/55410194/146191420-38e7baeb-269c-49d5-8acb-2649b6b09bf9.png)
 
 
+## User Authorisation Request
+
+![image](https://user-images.githubusercontent.com/55410194/146191878-6d4740e6-383c-4b23-a122-f760cde61507.png)
+
+## Access Token/ID Token Request
+
+![image](https://user-images.githubusercontent.com/55410194/146191948-7f297587-51e9-4e85-bfef-1c7fbbb49b63.png)
+
+
+## Token response
+
+![image](https://user-images.githubusercontent.com/55410194/146192008-1a7ec4fa-dd27-4813-aa69-8201f3262bd1.png)
+
+## Useful links
+
+- Google Cloud Console – required to create client credentials https://console.cloud.google.com/apis/dashboard
+- OAuth 2.0 Playground https://www.oauth.com/playground/
+- OpenID Connect Playground https://openidconnect.net
+- JWT Decoder https://jwt.io
+- Google OAuth 2.0 Authorisation Code Grant Instructions https://developers.google.com/identity/protocols/oauth2/openid-connect#php
+
+## Tutorials
+
+### PHP
+- PHP example - https://www.w3jar.com/login-with-google-account-using-php-mysqli-source-code/
+- PHP GAPI Library documentation - https://developers.google.com/identity/protocols/oauth2/web-server#php
+
+### Python
+- Python example https://pretagteam.com/question/using-google-oauth2-with-flask
+- Python GAPI Library documentation - https://developers.google.com/identity/protocols/oauth2/web-server#python_5
+
+
+
+
