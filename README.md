@@ -27,6 +27,15 @@
 - User Information Endpoint https://openidconnect.googleapis.com/v1/userinfo
 - Discovery Endpoint https://accounts.google.com/.well-known/openid-configuration
 
+## Registering a client and obtaining client credentials at a provider
+
+In google cloud console:
+1. Create new project
+2. Create new Oauth Consent screen for external use
+3. Create new credentials for Web Application
+4. Obtain ClientID and Client Secret
+
+
 ## Authorization Code Grant Type Flow
 
 
